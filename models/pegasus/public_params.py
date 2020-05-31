@@ -306,7 +306,7 @@ def billsum_transformer(param_overrides):
           "test_pattern": "tfrecord:/content/test.tfrecord",
           "max_input_len": 1024,
           "max_output_len": 256,
-          "train_steps": 180000,
+          "train_steps": 20000,
           "learning_rate": 0.0001,
-          "batch_size": 8,
+          "batch_size": 1,
       }, param_overrides)	  
