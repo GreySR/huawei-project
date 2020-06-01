@@ -1,6 +1,6 @@
-# Document Summarization on ru_government's dataset with BART and Pegasus
+## Document Summarization on ru_government's dataset with BART and Pegasus
 
-### Project structure
+### Project structure:
 
 **report**:
 - 	report.pdf - project report file
@@ -19,5 +19,4 @@
 -	pdf_preprocessing.py - pdf preprocessing and merging 2 parts of datasets;
 
 **metrics**:
--	bart
 -	pegasus
